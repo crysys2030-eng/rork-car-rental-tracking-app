@@ -227,7 +227,6 @@ export const pt = {
   pleaseEnterEndDate: 'Por favor, insira a data de fim',
   pleaseEnterValidDuration: 'Por favor, insira uma duração válida (mínimo 1)',
   rentalCreatedSuccessfully: 'Aluguer criado com sucesso! Pode acompanhar o estado na secção de Reservas.',
-  'semi-automatic': 'Semi-automática',
   
   // Car Views
   exterior: 'Exterior',
